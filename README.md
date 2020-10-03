@@ -14,9 +14,11 @@ Donasi : Bagi kalian yang ingin donasi bisa donasi ke rekening saya dibawah ini.
 
 BNI a/n NUR MUHAMMAD ERJI RIDHO LUBIS
 
-REK  : 0900890589
+DANA : 085366463076
 
-- EMAIL : contact@portalcoding.net
+OVO  : 085366463076
+
+- EMAIL : portalcoding11@gmail.com
 - WA : 082280847476
 - FB    : https://www.facebook.com/erjiridholubis.erji
           https://www.facebook.com/portalcoding
