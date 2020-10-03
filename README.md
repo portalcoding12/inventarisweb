@@ -12,8 +12,6 @@ NOTE : jangan mengubah nama folder(inventaris). !!!
 
 Donasi : Bagi kalian yang ingin donasi bisa donasi ke rekening saya dibawah ini.
 
-BNI a/n NUR MUHAMMAD ERJI RIDHO LUBIS
-
 DANA : 085366463076
 
 OVO  : 085366463076
