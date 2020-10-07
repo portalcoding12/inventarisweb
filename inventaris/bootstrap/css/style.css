@@ -1,0 +1,53 @@
+.vl{
+  border-left: 2px solid #ffffff;
+  height: 30px;
+  margin-top: -12px;
+}
+.bg-yellow {
+  background: #f1c40f;
+  color: #ffffff;
+}
+.bg-orange {
+  background: #ff9f43;
+  color: #ffffff;
+}
+.bg-blue {
+  background: #3498db;
+  color: #ffffff;
+}
+.bg-light-blue {
+  background: #48dbfb;
+  color: #ffffff;
+}
+.bg-red {
+  background: #ee5253;
+  color: #ffffff;
+}
+.bg-dark-red {
+  background: #e74c3c;
+  color: #ffffff;
+}
+.bg-green {
+  background: #2ecc71;
+  color: #ffffff;
+}
+.bg-dark-green {
+  background: #27ae60;
+  color: #ffffff;
+}
+.bg-purple {
+  background: #be2edd;
+  color: #ffffff;
+}
+.bg-light-purple {
+  background: #e056fd;
+  color: #ffffff;
+}
+.bg-grey {
+  background: #747d8c;
+  color: #ffffff;
+}
+.bg-light-grey {
+  background: #a4b0be;
+  color: #ffffff;
+}
